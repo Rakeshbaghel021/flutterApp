@@ -15,25 +15,25 @@ class RecentActivity {
 
 List<RecentActivity> recentActivities = [
   RecentActivity(
-    icon: 'assets/dashoboard/water_bill.svg',
+    icon: 'assets/svg/water_bill.svg',
     label: 'Water Bill',
     amount: "\$120",
     status: "Successefully",
   ),
   RecentActivity(
-    icon: 'assets/dashoboard/salary.svg',
+    icon: 'assets/svg/salary.svg',
     label: 'Income Salary',
     amount: "\$4500",
     status: "Received",
   ),
   RecentActivity(
-    icon: 'assets/dashoboard/current.svg',
+    icon: 'assets/svg/current.svg',
     label: 'Electric Bill',
     amount: "\$150",
     status: "Successefully",
   ),
   RecentActivity(
-    icon: 'assets/dashoboard/wifi.svg',
+    icon: 'assets/svg/wifi.svg',
     label: 'Internet Bill',
     amount: "\$60",
     status: "Successefully",
@@ -57,13 +57,13 @@ class UpcomingPayment {
 
 List<UpcomingPayment> upcomingPayments = [
   UpcomingPayment(
-    icon: 'assets/dashoboard/home.svg',
+    icon: 'assets/svg/home.svg',
     label: 'Home Rent',
     amount: "\$1500",
     status: "Pending",
   ),
   UpcomingPayment(
-    icon: 'assets/dashoboard/salary.svg',
+    icon: 'assets/svg/salary.svg',
     label: 'Car Insurance',
     amount: "\$150",
     status: "Pending",
@@ -128,22 +128,22 @@ class InfoCardModel {
 
 final List<InfoCardModel> infoCardData = [
   InfoCardModel(
-    icon: 'assets/dashoboard/credit-card.svg',
+    icon: 'assets/svg/credit-card.svg',
     label: 'Transfer via \nCard number',
     amount: '\$1200',
   ),
   InfoCardModel(
-    icon: 'assets/dashoboard/transfer.svg',
+    icon: 'assets/svg/transfer.svg',
     label: 'Transfer via \nOnline Banks',
     amount: '\$150',
   ),
   InfoCardModel(
-    icon: 'assets/dashoboard/bank.svg',
+    icon: 'assets/svg/bank.svg',
     label: 'Transfer \nSame Bank',
     amount: '\$1500',
   ),
   InfoCardModel(
-    icon: 'assets/dashoboard/doc.svg',
+    icon: 'assets/svg/doc.svg',
     label: 'Transfer to \nOther Bank',
     amount: '\$1500',
   ),

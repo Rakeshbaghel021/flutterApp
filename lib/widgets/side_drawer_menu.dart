@@ -1,3 +1,4 @@
+import 'package:dashboard/config/size_config.dart';
 import 'package:dashboard/utils/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
